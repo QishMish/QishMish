@@ -4,6 +4,9 @@
 
 
 I am Junior Web-Developer, Who is passionate about making open-source more flexible and modern web aplications, I have 2+ years of experience in web development.  I enjoy working with JavaScript and its libaries, especially  ReactJS.
+
+- 🔭 I’m currently I am working as a freelancer,
+- 🌱 I’m currently  deepen my knowledge in Front-End and Learnig NodeJs,
 <!--
 **QishMish/QishMish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
