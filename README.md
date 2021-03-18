@@ -2,6 +2,9 @@
 
 ![My Background](https://user-images.githubusercontent.com/63350011/111681831-23cdbb00-883d-11eb-8da2-0fed0cbbf40e.jpg)
 
+![bg about](https://user-images.githubusercontent.com/63350011/111684586-4f05d980-8840-11eb-811e-ed35168c8c1e.jpg)
+
+
 ![about](https://user-images.githubusercontent.com/63350011/111684207-d7d04580-883f-11eb-81aa-466927432331.png)
 
 <!--
