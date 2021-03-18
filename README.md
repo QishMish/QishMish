@@ -2,17 +2,7 @@
 
 ![My Background](https://user-images.githubusercontent.com/63350011/111681831-23cdbb00-883d-11eb-8da2-0fed0cbbf40e.jpg)
 
-AboutMe : {
-    name:'Mikehil',
-    Age:21,
-    Occupation: 'Web-developer',
-    Skills: [
-        <HTML />
-        <CSS/SASS />
-        <React />
-        <Node />
-    ]
-}
+![about](https://user-images.githubusercontent.com/63350011/111684207-d7d04580-883f-11eb-81aa-466927432331.png)
 
 <!--
 **QishMish/QishMish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
