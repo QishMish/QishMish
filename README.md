@@ -5,7 +5,7 @@
 
 💬I am Junior Web-Developer, Who is passionate about making open-source more flexible and modern web aplications, I have 2+ years of experience in web development.  I enjoy working with JavaScript and its libaries, especially  ReactJS.
 
-- 🔭 I’m currently I am working as a freelancer,
+- 🔭 I’m currently I am working as a Freelancer,
 - 🌱 I’m currently  deepen my knowledge in Front-End and Learnig NodeJs,
 
 Thanks for visiting, Take a look on my projects 😄
