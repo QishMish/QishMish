@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikheil Kajaia</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="coding" width=400 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width=300 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/michaelqish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelqish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mikheil kajaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikheil kajaia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mikheil-kajaia-b05b44207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikheil kajaia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qishmish&show_icons=true&locale=en&layout=compact" alt="qishmish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qishmish&show_icons=true&locale=en" alt="qishmish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qishmish&" alt="qishmish" /></p>
